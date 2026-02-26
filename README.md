@@ -2,7 +2,7 @@
 
 A polished transport job for FiveM. Pick up passengers, drive them across the city, earn cash and XP, and climb through 7 ranks — from **Novice** to **Legend**.
 
-🔗 **[💳 PURCHASE NOW TEBEX](https://gantz4-scripts.tebex.io/category/free-1)**  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I3E12G5)
+🔗 **[💳 PURCHASE NOW TEBEX](https://gantz4-scripts.tebex.io/category/scripts)**  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I3E12G5)
 
 ## What does it do?
 
